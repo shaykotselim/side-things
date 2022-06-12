@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Fan",
+      "price": 433,
+      "color": "white",
+      "gender": "Male",
+      "id":"1"
+    },
+    {
+      "name": "Light",
+      "price": 430,
+      "color": "Red",
+      "gender": "Male",
+      "id":"2"
+    },
+    {
+      "name": "Table-fan",
+      "price": 487,
+      "color": "Black",
+      "gender": "Female",
+      "id":"3"
+    },
+    {
+      "name": "Table-Lamp",
+      "price": 333,
+      "color": "Green",
+      "gender": "Male",
+      "id":"4"
+    },
+    {
+      "name": "Table-clock",
+      "price": 548,
+      "color": "yellow",
+      "gender": "Male",
+      "id":"5"
+    }
+  ]
